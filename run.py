@@ -1,0 +1,2 @@
+import NID
+NID.xyz()
