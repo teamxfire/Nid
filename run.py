@@ -1,2 +1,0 @@
-import NID
-NID.xyz()
