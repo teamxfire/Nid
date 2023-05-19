@@ -1,1 +1,1 @@
-import nid
+import xnxnid
