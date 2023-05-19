@@ -1,1 +1,1 @@
-import kamal
+import nid
